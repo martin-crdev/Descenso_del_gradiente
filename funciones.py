@@ -9,7 +9,7 @@ def f(m, x, b):
 def f_b(x):
     return x**2
 
-#Funcion polinomico
+#Funcion polinomica
 def f_p(x):
     return 2*x**7 - x**4 + 3*x**2 + 4
 
